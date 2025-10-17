@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #f1f8f4;
+  color: #2e7d32;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', sans-serif;
+  color: #1b5e20;
+}
+
+button, a {
+  transition: all 0.2s ease;
+}
+
+button:hover, a:hover {
+  transform: scale(1.02);
+}
+
+.container {
+  padding: 16px;
+}
